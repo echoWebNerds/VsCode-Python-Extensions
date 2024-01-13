@@ -1,0 +1,85 @@
+    GitLens: Enhance Git integration for inline blame annotations, code lens, and history exploration.
+    Bracket Pair Colorizer: Colorizes matching brackets for better code readability.
+    Python Preview: Previews Markdown-formatted Python code in a rendered HTML view.
+    Indent Rainbow: Visualizes indentation levels with different colors.
+    Better Comments: Supports annotations for better code documentation.
+    AutoDocstring: Generates docstrings automatically for functions and classes.
+    Python Snippets: Provides a collection of reusable code blocks.
+
+Testing and Debugging:
+
+    Python Test Explorer: Discovers, runs, and visualizes test results for unittest, pytest, nose, and doctest.
+    Jest: Seamless integration for running and debugging Jest tests.
+    pdb++: Enhanced debugger with improved syntax highlighting, stepping, and variable inspection.
+
+Linting and Code Quality:
+
+    Pylint: Popular linter for identifying code style issues and potential errors.
+    Black: Automatic code formatter for consistent style.
+    mypy: Static type checker for finding type errors before runtime.
+
+Environment and Dependency Management:
+
+    Python Indent: Detects and fixes indentation errors automatically.
+    Visual Studio IntelliCode: AI-assisted IntelliSense with recommendations based on your code context.
+    Pylance: Advanced language server with enhanced type checking and IntelliSense.
+    Remote Development: Develop and debug Python code running on remote machines or containers.
+
+Specific Frameworks and Libraries:
+
+    Django: Support for Django development, including IntelliSense, code navigation, and debugging.
+    Flask: Support for Flask development, including IntelliSense and code navigation.
+    Anaconda Extension Pack: Collection of extensions for data science and machine learning with Python.
+
+Additional Notable Extensions:
+
+    Git Graph: Visualizes Git branches and commits in a graph view.
+    Project Manager: Manages multiple projects within a single workspace.
+    Code Spell Checker: Checks spelling in code comments and strings.
+بهترین افزونه‌های مربوط به پایتون برای ویژوال استودیو کد، افزونه‌هایی هستند که به شما کمک می‌کنند تا کد پایتون خود را سریع‌تر و آسان‌تر بنویسید، تست کنید و اشکال‌زدایی کنید.
+
+در اینجا برخی از بهترین افزونه‌های پایتون برای ویژوال استودیو کد آورده شده است:
+
+    Python IntelliSense
+
+این افزونه پیشنهادات تکمیل کد هوشمندی را برای پایتون ارائه می‌دهد. این افزونه به شما کمک می‌کند تا کدهای خود را سریع‌تر و دقیق‌تر بنویسید.
+
+    Python Debugging
+
+این افزونه به شما کمک می‌کند تا کد پایتون خود را اشکال‌زدایی کنید. این افزونه به شما امکان می‌دهد تا نقاط توقف را تنظیم کنید، مراحل اجرا را مشاهده کنید و مقادیر متغیرها را بررسی کنید.
+
+    Python Test Explorer
+
+این افزونه به شما کمک می‌کند تا تست‌های پایتون خود را مدیریت کنید. این افزونه به شما امکان می‌دهد تا تست‌ها را اجرا کنید، نتایج تست‌ها را مشاهده کنید و تست‌ها را به صورت خودکار اجرا کنید.
+
+    PythonDocstring Generator
+
+این افزونه به شما کمک می‌کند تا مستندات پایتون خود را ایجاد کنید. این افزونه به شما امکان می‌دهد تا مستندات را به صورت خودکار ایجاد کنید یا مستندات خود را به صورت دستی ویرایش کنید.
+
+    Python Linting
+
+این افزونه به شما کمک می‌کند تا کد پایتون خود را بررسی کنید. این افزونه خطاها و هشدارهای احتمالی را در کد شما شناسایی می‌کند.
+
+    Python Formatter
+
+این افزونه به شما کمک می‌کند تا کد پایتون خود را فرمت کنید. این افزونه کد شما را به صورت یکپارچه و خوانا فرمت می‌کند.
+
+    Python Snippets
+
+این افزونه به شما کمک می‌کند تا کد پایتون خود را سریع‌تر بنویسید. این افزونه کدهای از پیش تعریف شده‌ای را ارائه می‌دهد که می‌توانید از آن‌ها استفاده کنید.
+
+علاوه بر این افزونه‌های اصلی، افزونه‌های دیگری نیز وجود دارند که می‌توانند برای توسعه پایتون مفید باشند. برخی از این افزونه‌ها عبارتند از:
+
+    Pylance
+
+این افزونه یک تکمیل کد هوشمند و یک سیستم اشکال‌زدایی پیشرفته را ارائه می‌دهد.
+
+    Jupyter Notebook
+
+این افزونه به شما امکان می‌دهد تا Jupyter Notebooks را در ویژوال استودیو کد باز کنید و ویرایش کنید.
+
+    PyCharm Professional Edition for VS Code
+
+این افزونه ویژگی‌های پیشرفته‌ای از PyCharm را به ویژوال استودیو کد اضافه می‌کند.
+
+انتخاب بهترین افزونه‌های پایتون برای ویژوال استودیو کد به نیازها و ترجیحات شما بستگی دارد. با این حال، افزونه‌های ذکر شده در بالا، یک نقطه شروع عالی هستند.

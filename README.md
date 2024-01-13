@@ -30,10 +30,10 @@
 16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<br>
 17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<br>
 18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<br>
-19- [****]()<br>
-20- [****]()<br>
-21- [****]()<br>
-22- [****]()<br>
+19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<br>
+20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<br>
+21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)<br>
+22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<br>
 
 
 <br><br>

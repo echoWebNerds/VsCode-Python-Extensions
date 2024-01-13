@@ -2,7 +2,7 @@
   "name": "python-silver-pack",
   "displayName": "Python Silver Pack",
   "description": "Elevate your Pyhton development experience with the Pyhton Pro Toolkit, a handpicked ensemble of top-tier Visual Studio Code extensions. This carefully curated pack brings together the best tools and utilities, streamlining your workflow and enhancing your capabilities as a frontend developer..",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "echoWebNerds",
   "license": "MIT",
   "engines": {
@@ -12,7 +12,7 @@
     "name": "echoWebNerds",
     "email": "echowebnerds@gmail.com"
   },
-  "icon": "image/logo2.png",
+  "icon": "img/Logo.png",
   "galleryBanner": {
     "color": "#bd93f9",
     "theme": "dark"
@@ -23,16 +23,20 @@
   },
   "homepage": "https://github.com/echoWebNerds/VsCode-Python-Extensions",
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Linters",
+    "Formatters",
+    "Debuggers"
   ],
   "keywords": [
+    "python extension pack",
     "Python",
     "package python",
     "package Python",
     "package Python",
     "python package",
     "Python Package",
-    "pack frontend",
+    "pack python",
     "Python pack",
     "Python-pack",
     "Python_pack",
@@ -40,6 +44,7 @@
     "python-pack",
     "python_pack",
     "python",
+    "PYTHON",
     "pack",
     "packs",
     "pack python",
@@ -59,7 +64,34 @@
     "Codeium",
     "AutoTag",
     "Intelli code",
-    "Better Comments"
+    "Better Comments",
+    "codeium",
+    "jupyter",
+    "jupyter",
+    "JUPYTER",
+    "python indent",
+		"python test explorer",
+		"pylance",
+    "test",
+		"testing",
+		"pytest",
+		"typehint",
+		"completion",
+		"autocompletion",
+		"python snippets",
+    "python debugging",
+		"python debugger",
+		"python preview",
+    "debug python",
+    "debug",
+    "debugging",
+    "debugging Python",
+    "debugging python",
+    "Debugging Python",
+    "Black Formatte",
+    "black formatter",
+    "black formatter",
+    "Django"
   ],
   "extensionPack": [
     "ms-python.black-formatter",
@@ -87,7 +119,12 @@
     "ms-toolsai.jupyter",
     "ms-toolsai.vscode-jupyter-cell-tags",
     "ms-toolsai.jupyter-keymap",
-    "ms-toolsai.vscode-jupyter-slideshow"
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "PKief.material-icon-theme",
+    "GitHub.github-vscode-theme",
+    "alefragnani.project-manager",
+    "formulahendry.code-runner"
+    
   ],
   "dependencies": {
     "vsce": "^2.15.0"
