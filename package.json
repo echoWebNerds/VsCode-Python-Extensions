@@ -83,7 +83,11 @@
     "oderwat.indent-rainbow",
     "almenon.arepl",
     "ms-vscode-remote.remote-ssh",
-    "Codeium.codeium"
+    "Codeium.codeium",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.vscode-jupyter-slideshow"
   ],
   "dependencies": {
     "vsce": "^2.15.0"
