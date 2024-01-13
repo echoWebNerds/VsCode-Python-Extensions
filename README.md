@@ -26,10 +26,10 @@
 12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<br>
 13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<br>
 14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<br>
-15- [****]()<br>
-16- [****]()<br>
-17- [****]()<br>
-18- [****]()<br>
+15- [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)<br>
+16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<br>
+17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<br>
+18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<br>
 19- [****]()<br>
 20- [****]()<br>
 21- [****]()<br>
