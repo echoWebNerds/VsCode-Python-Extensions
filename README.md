@@ -12,20 +12,20 @@
 
 ### Extensions included in this Package are:
 
-1- [****]()<br>
-2- [****]()<br>
-3- [****]()<br>
-4- [****]()<br>
-5- [****]()<br>
-6- [****]()<br>
-7- [****]()<br>
-8- [****]()<br>
-9- [****]()<br>
-10- [****]()<br>
-11- [****]()<br>
-12- [****]()<br>
-13- [****]()<br>
-14- [****]()<br>
+1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)<br>
+2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<br>
+3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<br>
+4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<br>
+5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<br>
+6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<br>
+7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<br>
+8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
+9- [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<br>
+10- [**Python Indent**](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)<br>
+11- [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)<br>
+12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<br>
+13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<br>
+14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<br>
 15- [****]()<br>
 16- [****]()<br>
 17- [****]()<br>
