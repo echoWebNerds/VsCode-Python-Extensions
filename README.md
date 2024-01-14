@@ -14,46 +14,26 @@
 
 1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)<p>Python Docstring Generator: Automatically creates docstring templates for Python functions, classes, and modules, saving time and promoting code readability.</p> 
 2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<p> Enforces consistent code style with automatic formatting, ensuring a clean and unified codebase.</p> 
-3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-<p>Provides advanced language support for Python, including intelligent code completions, type checking, and debugging assistance.</p>
-4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<br>
-<p></p>
-5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) 
-<p></p>
-6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<br>
-<p></p>
-7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<br>
-<p></p>
-8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
-<p></p>
-9- [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<br>
-<p></p>
-10- [**Python Indent**](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)<br>
-<p></p>
-11- [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)<br>
-<p></p>
-12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<br>
-<p></p>
-13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<br>
-<p></p>
-14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<br>
-<p></p>
-15- [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)<br>
-<p></p>
-16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<br>
-<p></p>
-17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<br>
-<p></p>
-18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<br>
-<p></p>
-19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<br>
-<p></p>
-20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<br>
-<p></p>
-21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)<br>
-<p></p>
-22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<br>
-<p></p>
+3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<p>Provides advanced language support for Python, including intelligent code completions, type checking, and debugging assistance.</p>
+4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<p>The core Python extension, enabling Python development within VS Code with basic features like syntax highlighting and code editing.</p>
+5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<p>Simplifies managing multiple Python environments for different projects, preventing conflicts</p>
+6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<p>Enables debugging Python code directly within VS Code, allowing step-by-step execution, inspection of variables, and identification of errors.</p>
+7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<p>Runs Python files and tests in the integrated terminal for quick execution and feedback.</p>
+8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<p>Enhances comment visibility and organization with different colors and highlighting, improving code understanding and collaboration.</p>
+9- [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<p>Offers AI-assisted code completions based on context and patterns, suggesting more relevant and accurate code snippets.</p>
+10- [**Python Indent**](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)<p>Automatically indents Python code for proper formatting and readability, reducing manual effort and potential errors.</p>
+11- [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)<p>Provides syntax highlighting and code completion for Jinja templates, commonly used in web frameworks like Flask.</p>
+12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<p>Django: Offers Django-specific features like project management, template tags, and code completion, streamlining Django development.</p>
+13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p> Allows marking and navigating important code sections for quick reference and organization, improving efficiency.</p>
+14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<p> Automatically imports required modules based on usage, saving time and reducing manual imports.</p>
+15- [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)<p> Integrates Jupyter notebooks into VS Code, enabling interactive coding, data exploration, and visualization.</p>
+16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<p>Adds customizable tags to Jupyter notebook cells for better organization and filtering.</p>
+17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<p>Provides familiar Jupyter notebook keyboard shortcuts within VS Code, enhancing workflow consistency.</p>
+18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<p>Turns Jupyter notebooks into slideshow presentations for sharing insights and findings.</p>
+19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p>GitHub Theme: Applies GitHub's visual style to VS Code's interface for a consistent and familiar look and feel.</p>
+20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p>Material Icon Theme: Offers a modern and visually appealing icon set for files and folders, enhancing workspace aesthetics.</p>
+21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)<p>Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
+22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<p>Code Runner: Runs code snippets or entire files for various languages directly within VS Code, providing quick execution and results.</p>
 
 
 <br><br>
