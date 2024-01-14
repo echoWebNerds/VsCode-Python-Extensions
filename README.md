@@ -12,11 +12,12 @@
 
 ### Extensions included in this Package are:
 
-1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)<br>
-2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<br>
-3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<br>
+1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) <p>Python Docstring Generator: Automatically creates docstring templates for Python functions, classes, and modules, saving time and promoting code readability.</p> 
+2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) <p> Enforces consistent code style with automatic formatting, ensuring a clean and unified codebase.</p> 
+3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+<p>Provides advanced language support for Python, including intelligent code completions, type checking, and debugging assistance.</p>
 4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<br>
-5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<br>
+5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) <p> </p>
 6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<br>
 7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<br>
 8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
