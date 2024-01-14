@@ -7,7 +7,10 @@
 
 ### A Complete and Powerful Package for Python Developers 🥇
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a>
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> <br> <br>
+<a href="https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE"><img src="https://img.shields.io/badge/Open_source-MIT-green.svg?logo=git&logoColor=green"/></a>
+
+</div>
 
 ## English
 
@@ -44,9 +47,9 @@ Python-extension-gold-pack is a valuable tool for Python developers that can hel
 
 <h1>💻 Some of the benefits of using Python-extension-gold-pack include:</h1>
 
-<h3>1- Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
-<h3>2- Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
-<h3>3- Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
+<h3> :one: - Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
+<h3> :two: - Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
+<h3> :three: - Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
 If you are a Python developer, Python-extension-gold-pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
 
@@ -61,11 +64,8 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 [@mohmmadView](https://github.com/mohmmadView/)
 [@Minoo Zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
-
-
 <br>
 <hr>
 <h3>License<h3>
 
 [GNU General Public License v3.0](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
-</div>
