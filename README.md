@@ -78,3 +78,54 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 <h3>License<h3>
 
 [GNU General Public License v3.0](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
+
+<p id="persian" dir="rtl">
+ اکستنشن های پایتون طلایی 🥇 پک 📦 یک بسته کامل و قدرتمند 💪 از اکستنشن‌های ویژوال استودیو کد است که برای توسعه‌دهندگان پایتون طراحی شده است. این بسته شامل یک مجموعه از اکستنشن‌های ضروری :assen و مفید برای کدنویسی، فرمت‌بندی، مدیریت پروژه و ... است. </p>
+
+
+### اکستنشن‌های موجود در این بسته عبارتند از :
+
+1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)<p dir="rtl">ایجاد کننده داکومینت نویسی پایتون: به صورت خودکار قالب‌های docstring برای توابع، کلاس‌ها و ماژول‌های پایتون ایجاد می‌کند، زمان صرفه‌جویی و افزایش خوانایی کد..</p> 
+2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<p> Enforces consistent code style with automatic formatting, ensuring a clean and unified codebase.</p> 
+3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<p>Provides advanced language support for Python, including intelligent code completions, type checking, and debugging assistance.</p>
+4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<p>The core Python extension, enabling Python development within VS Code with basic features like syntax highlighting and code editing.</p>
+5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<p>Simplifies managing multiple Python environments for different projects, preventing conflicts</p>
+6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<p>Enables debugging Python code directly within VS Code, allowing step-by-step execution, inspection of variables, and identification of errors.</p>
+7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<p>Runs Python files and tests in the integrated terminal for quick execution and feedback.</p>
+8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<p>Enhances comment visibility and organization with different colors and highlighting, improving code understanding and collaboration.</p>
+9- [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<p>Offers AI-assisted code completions based on context and patterns, suggesting more relevant and accurate code snippets.</p>
+10- [**Python Indent**](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)<p>Automatically indents Python code for proper formatting and readability, reducing manual effort and potential errors.</p>
+11- [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)<p>Provides syntax highlighting and code completion for Jinja templates, commonly used in web frameworks like Flask.</p>
+12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<p>Django: Offers Django-specific features like project management, template tags, and code completion, streamlining Django development.</p>
+13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p> Allows marking and navigating important code sections for quick reference and organization, improving efficiency.</p>
+14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<p> Automatically imports required modules based on usage, saving time and reducing manual imports.</p>
+15- [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)<p> Integrates Jupyter notebooks into VS Code, enabling interactive coding, data exploration, and visualization.</p>
+16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<p>Adds customizable tags to Jupyter notebook cells for better organization and filtering.</p>
+17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<p>Provides familiar Jupyter notebook keyboard shortcuts within VS Code, enhancing workflow consistency.</p>
+18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<p>Turns Jupyter notebooks into slideshow presentations for sharing insights and findings.</p>
+19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p>GitHub Theme: Applies GitHub's visual style to VS Code's interface for a consistent and familiar look and feel.</p>
+<p>Note: You need to press F5 button to use the theme. And type Color Theme in the opened box. Lists themes in two groups, dark and light..</p>
+
+20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p>Material Icon Theme: Offers a modern and visually appealing icon set for files and folders, enhancing workspace aesthetics.</p>
+<p>Note: You need to press F5 button to use the theme. And type Material icon in the opened box enter Active icon </p>
+
+21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+<p>Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
+
+22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<p>Code Runner: Runs code snippets or entire files for various languages directly within VS Code, providing quick execution and results.</p>
+
+
+<br><br>
+<p dir="rtl"> Python-extension-gold-pack ابزار مهمی برای توسعه‌دهندگان پایتون است که می‌تواند به آن‌ها در افزایش بهره‌وری و بهبود کیفیت کد کمک کند. این بسته به صورت رایگان در بازار ویژوال استودیو کد در دسترس است.</p>
+<h1 dir='rtl'>💻 برخی از مزایای استفاده از Python-extension-gold-pack عبارتند از:</h1>
+
+<h3 dir='rtl'> 1️⃣ - افزایش بهره‌وری:</h3>
+<p dir='rtl'>این بسته شامل مجموعه‌ای از اکستنشن‌های ضروری و مفید است که می‌تواند به توسعه‌دهندگان کمک کند تا زمان را صرفه‌جویی کرده و بهره‌وری را افزایش دهند..</p>
+<h3 dir='rtl'> 2️⃣ - بهبود کیفیت کد: </h3><p dir="rtl">
+این بسته شامل اکستنشن‌ها برای فرمت‌بندی، linting و ... است که می‌تواند به توسعه‌دهندگان کمک کند کیفیت کد خود را بهبود بخشند.</p>
+<h3 dir='rtl'> 3️⃣ - سازگاری با آخرین فناوری‌ها: </h3><p dir='rtl'>این بسته به صورت منظم به‌روزرسانی می‌شود تا سازگاری با آخرین فناوری‌ها را اطمینان حاصل کند..</p>
+<p dir="rtl">اگر شما یک توسعه‌دهنده پایتون هستید، Python-extension-gold-pack یک ابزار ارزشمند برای شماست. این بسته می‌تواند به شما کمک کند تا سریع‌تر، آسان‌تر و با کیفیت بهتری کد بزنید.</p>
+<hr>
+<h3 dir='rtl'>سوالی دارید ❓</h3>
+
+Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/vscode-java/discussions), File a bug in [GitHub Issues](https://github.com/echoWebNerds/VsCode-Python-Extensions/issues), If you have a new extension in mind that is not in the list, introduce it so that we can add it in the new update , Chat with us on Linkedin [Minoo Zarpoosh](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a), [Mohammad Rahgoshayi](linkedin.com/in/mohammad-rahgoshahi-b3654325a) with other feedback. 
