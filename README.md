@@ -8,8 +8,11 @@
 ### A Complete and Powerful Package for Python Developers 🥇
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> <br> <br>
-<a href="https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE"><img src="https://img.shields.io/badge/Open_source-MIT-green.svg?logo=git&logoColor=green"/></a>
+<!-- <a href=><img src="https://img.shields.io/badge/License-GPL%20v3.0-green.svg?logo=git&logoColor=green"/></a> -->
 
+[![License: GPL v3.0](https://img.shields.io/badge/EchoWebNerds-Group-red.svg?logo=github&logoColor=white)](https://github.com/echoWebNerds/VsCode-Python-Extensions)
+[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3.0-green.svg?logo=git&logoColor=green)]("https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE")
+[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Python.Extension.Goldpack-blue.svg?logo=visualstudiocode&logoColor=blue)]("https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE")
 </div>
 
 ## English
