@@ -40,8 +40,14 @@
 17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<p>Provides familiar Jupyter notebook keyboard shortcuts within VS Code, enhancing workflow consistency.</p>
 18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<p>Turns Jupyter notebooks into slideshow presentations for sharing insights and findings.</p>
 19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p>GitHub Theme: Applies GitHub's visual style to VS Code's interface for a consistent and familiar look and feel.</p>
+<p>Note: You need to press F5 button to use the theme. And type Color Theme in the opened box. Lists themes in two groups, dark and light..</p>
+
 20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p>Material Icon Theme: Offers a modern and visually appealing icon set for files and folders, enhancing workspace aesthetics.</p>
-21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)<p>Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
+<p>Note: You need to press F5 button to use the theme. And type Material icon in the opened box enter Active icon </p>
+
+21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+<p>Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
+
 22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<p>Code Runner: Runs code snippets or entire files for various languages directly within VS Code, providing quick execution and results.</p>
 
 
