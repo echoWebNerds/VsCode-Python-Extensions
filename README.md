@@ -90,26 +90,26 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<p dir="rtl"  >    فعال‌سازی توسعه پایتون در VS Code با ویژگی‌های پایه مانند تشخیص رنگ و ویرایش کد..</p>
 4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<p dir="rtl"   >ساده‌ترین مدیریت محیط‌های مختلف پایتون برای پروژه‌های مختلف و جلوگیری از تداخلات.</p>
 5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<p dir="rtl">امکان اشکال‌زدایی کد پایتون مستقیماً در VS Code با اجرای گام به گام، بازرسی متغیرها و شناسایی خطاها.</p>
-6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<p dir="rtl">ارائه تکمیل‌های کد مبتنی بر هوش مصنوعی بر اساس سیاق و الگوها، پیشنهاد برش‌های کد مرتبط و دقیق‌تر..</p>
+6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<p dir="rtl">ارائه تکمیل‌های کد مبتنی بر هوش مصنوعی بر اساس سوابق و الگوها، پیشنهاد برش‌های کد مرتبط و دقیق‌تر..</p>
 7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<p dir="rtl">فایل های پایتون را اجرا می کند و در ترمینال یکپارچه برای اجرای سریع و بازخورد آزمایش می کند.</p>
 8- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<p dir="rtl">دید و سازماندهی نظرات را با رنگ ها و برجسته سازی های مختلف افزایش می دهد، درک کد و همکاری را بهبود می بخشد.</p>
 9- [**IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)<p dir="rtl">تکمیل کد با کمک هوش مصنوعی را بر اساس زمینه و الگوها ارائه می‌کند و کدهای مرتبط‌تر و دقیق‌تری را پیشنهاد می‌کند.</p>
 10- [**Python Indent**](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)<p dir="rtl">به طور خودکار کد پایتون را برای قالب بندی و خوانایی مناسب، کاهش تلاش دستی و خطاهای بالقوه تورفتگی می کند.</p>
 11- [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)<p dir="rtl">برجسته سازی نحو و تکمیل کد را برای قالب های Jinja، که معمولاً در چارچوب های وب مانند Flask استفاده می شود، ارائه می دهد.</p>
-12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<p dir="rtl">جنگو: ویژگی‌های خاص جنگو مانند مدیریت پروژه، تگ‌های قالب و تکمیل کد را ارائه می‌دهد که توسعه جنگو را ساده‌تر می‌کند.</p>
+12- [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)<p dir="rtl"> ویژگی‌های خاص جنگو مانند مدیریت پروژه، تگ‌های قالب و تکمیل کد را ارائه می‌دهد که توسعه جنگو را ساده‌تر می‌کند.</p>
 13- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p dir="rtl">به علامت گذاری و پیمایش بخش های مهم کد برای ارجاع سریع و سازماندهی، بهبود کارایی اجازه می دهد.</p>
 14- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)<p dir="rtl">به طور خودکار ماژول های مورد نیاز را بر اساس استفاده، صرفه جویی در زمان و کاهش واردات دستی وارد می کند.</p>
 15- [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)<p dir="rtl">نوت‌بوک‌های Jupyter را در VS Code ادغام می‌کند و امکان کدگذاری تعاملی، کاوش داده‌ها و تجسم را فراهم می‌کند.</p>
-16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)< dir="rtl">برای سازماندهی و فیلتر کردن بهتر، برچسب های قابل تنظیم را به سلول های نوت بوک Jupyter اضافه می کند.</p>
+16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)<p dir="rtl">برای سازماندهی و فیلتر کردن بهتر، برچسب های قابل تنظیم را به سلول های نوت بوک Jupyter اضافه می کند.</p>
 17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<p dir="rtl">میانبرهای آشنای صفحه کلید نوت بوک Jupyter را در VS Code ارائه می دهد و ثبات گردش کار را افزایش می دهد.</p>
 18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<p dir="rtl">نوت‌بوک‌های Jupyter را به ارائه‌های نمایش اسلاید برای اشتراک‌گذاری بینش‌ها و یافته‌ها تبدیل می‌کند. </p>
-19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p dir="rtl">تم GitHub: سبک بصری GitHub را در رابط VS Code اعمال می کند تا ظاهر و احساسی سازگار و آشنا داشته باشد.</p><p dir="rtl">توجه: برای استفاده از تم باید دکمه F5 را فشار دهید. و در کادر باز شده Color Theme را تایپ کنید. تم ها را در دو گروه تیره و روشن فهرست می کند..</p>
-20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p dir="rtl">تم آیکون مواد: مجموعه آیکون های مدرن و جذابی را برای فایل ها و پوشه ها ارائه می دهد که زیبایی فضای کاری را بهبود می بخشد.</p>
+19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p dir="rtl"> سبک بصری GitHub را در رابط VS Code اعمال می کند تا ظاهر و احساسی سازگار و آشنا داشته باشد.</p><p dir="rtl">توجه: برای استفاده از تم باید دکمه F5 را فشار دهید. و در کادر باز شده Color Theme را تایپ کنید. تم ها را در دو گروه تیره و روشن فهرست می کند.</p>
+20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p dir="rtl"> مجموعه آیکون های مدرن و جذابی را برای فایل ها و پوشه ها ارائه می دهد که زیبایی فضای کاری را بهبود می بخشد.</p>
 
 21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-<p dir="rtl">Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
+<p dir="rtl"> مدیریت پروژه های متعدد در VS Code را تسهیل می کند و بین آنها به راحتی و کارآمد جابه جا می شود.</p>
 
-22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<p dir="rtl">Code Runner: Runs code snippets or entire files for various languages directly within VS Code, providing quick execution and results.</p>
+22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)<p dir="rtl">قطعه کد یا کل فایل ها را برای زبان های مختلف به طور مستقیم در VS Code اجرا می کند و اجرای سریع و نتایج را ارائه می دهد.</p>
 
 
 <br><br>
@@ -123,6 +123,7 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 <h3 dir='rtl'> 3️⃣ - سازگاری با آخرین فناوری‌ها: </h3><p dir='rtl'>این بسته به صورت منظم به‌روزرسانی می‌شود تا از سازگاری با آخرین فناوری‌ها را اطمینان حاصل کند.</p>
 <p dir="rtl">اگر شما یک توسعه‌دهنده پایتون هستید، Python-extension-gold-pack یک ابزار ارزشمند برای شماست. این بسته می‌تواند به شما کمک کند تا سریع‌تر، آسان‌تر و با کیفیت بهتری کد بزنید.</p>
 <hr>
-<h3 dir='rtl'>سوالی دارید ❓</h3>
+<h3 dir='rtl'>سوالی دارید؟</h3>
 
-Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/vscode-java/discussions), File a bug in [GitHub Issues](https://github.com/echoWebNerds/VsCode-Python-Extensions/issues), If you have a new extension in mind that is not in the list, introduce it so that we can add it in the new update , Chat with us on Linkedin [Minoo Zarpoosh](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a), [Mohammad Rahgoshayi](linkedin.com/in/mohammad-rahgoshahi-b3654325a) with other feedback. 
+
+ اگربه باگ یا ایرادی برخوردید خوشحال میشویم با ما به [اشراک بگذارید](https://github.com/echoWebNerds/VsCode-Python-Extensions/issues) تا در اولین فرصت آن را برطرف کنیم. افزونه جدیدی در نظر دارید که در لیست نیست، آن را معرفی کنید تا در آپدیت جدید اضافه کنیم، با ما در لینکدین [مینو زرپوش](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a) ,[ محمد رهگشایی](linkedin.com/in/mohammad-rahgoshahi-b3654325a)  در ارتباط باشید.
