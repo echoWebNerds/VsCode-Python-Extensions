@@ -86,9 +86,9 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 ### اکستنشن‌های موجود در این بسته عبارتند از :
 
 1- [**autoDocstring - Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)<p dir="rtl">ایجاد کننده داکومینت نویسی پایتون: به صورت خودکار قالب‌های docstring برای توابع، کلاس‌ها و ماژول‌های پایتون ایجاد می‌کند، زمان صرفه‌جویی و افزایش خوانایی کد..</p> 
-2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<p> Enforces consistent code style with automatic formatting, ensuring a clean and unified codebase.</p> 
-3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<p>Provides advanced language support for Python, including intelligent code completions, type checking, and debugging assistance.</p>
-4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<p>The core Python extension, enabling Python development within VS Code with basic features like syntax highlighting and code editing.</p>
+2- [**Black Formatter**](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)<p dir="rtl" >    پشتیبانی پیشرفته از زبان Python با تکمیل خودکار هوشمند کد، چک کردن نوع، و کمک به اشکال‌زدایی. </p> 
+3- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)<p dir="rtl"  >    فعال‌سازی توسعه پایتون در VS Code با ویژگی‌های پایه مانند تشخیص رنگ و ویرایش کد..</p>
+4- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)<p dir="rtl"   >ساده‌ترین مدیریت محیط‌های مختلف پایتون برای پروژه‌های مختلف و جلوگیری از تداخلات.</p>
 5- [**Python Environment Manager**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)<p>Simplifies managing multiple Python environments for different projects, preventing conflicts</p>
 6- [**Python Debugger**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)<p>Enables debugging Python code directly within VS Code, allowing step-by-step execution, inspection of variables, and identification of errors.</p>
 7- [**Ruff**](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)<p>Runs Python files and tests in the integrated terminal for quick execution and feedback.</p>
