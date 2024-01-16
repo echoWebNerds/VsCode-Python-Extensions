@@ -103,11 +103,8 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 16- [**Jupyter Cell Tags**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)< dir="rtl">برای سازماندهی و فیلتر کردن بهتر، برچسب های قابل تنظیم را به سلول های نوت بوک Jupyter اضافه می کند.</p>
 17- [**Jupyter Keymap**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)<p dir="rtl">میانبرهای آشنای صفحه کلید نوت بوک Jupyter را در VS Code ارائه می دهد و ثبات گردش کار را افزایش می دهد.</p>
 18- [**Jupyter Slide Show**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)<p dir="rtl">نوت‌بوک‌های Jupyter را به ارائه‌های نمایش اسلاید برای اشتراک‌گذاری بینش‌ها و یافته‌ها تبدیل می‌کند. </p>
-19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p dir="rtl">تم GitHub: سبک بصری GitHub را در رابط VS Code اعمال می کند تا ظاهر و احساسی سازگار و آشنا داشته باشد.</p>
-<p dir="rtl">توجه: برای استفاده از تم باید دکمه F5 را فشار دهید. و در کادر باز شده Color Theme را تایپ کنید. تم ها را در دو گروه تیره و روشن فهرست می کند..</p>
+19- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<p dir="rtl">تم GitHub: سبک بصری GitHub را در رابط VS Code اعمال می کند تا ظاهر و احساسی سازگار و آشنا داشته باشد.</p><p dir="rtl">توجه: برای استفاده از تم باید دکمه F5 را فشار دهید. و در کادر باز شده Color Theme را تایپ کنید. تم ها را در دو گروه تیره و روشن فهرست می کند..</p>
 20- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<p dir="rtl">تم آیکون مواد: مجموعه آیکون های مدرن و جذابی را برای فایل ها و پوشه ها ارائه می دهد که زیبایی فضای کاری را بهبود می بخشد.</p>
-
-
 
 21- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 <p dir="rtl">Project Manager: Facilitates managing multiple projects within VS Code, switching between them easily and efficiently.</p>
