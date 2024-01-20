@@ -1,7 +1,7 @@
 <div  align="center">
 <img src="./img/Logo.png">
 
-# 📦 Python-extension-gold-pack
+# 📦 Python-extension-silver-pack
 
 # 📦 پکیج طلایی اکستنشن های پایتون
 
@@ -12,12 +12,12 @@
 
 [![License: GPL v3.0](https://img.shields.io/badge/EchoWebNerds-Group-red.svg?logo=github&logoColor=white)](https://github.com/echoWebNerds/VsCode-Python-Extensions)
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3.0-green.svg?logo=git&logoColor=green)](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
-[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Python.Extension.Goldpack-blue.svg?logo=visualstudiocode&logoColor=blue)](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
+[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Python.Extension.silverpack-blue.svg?logo=visualstudiocode&logoColor=blue)](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
 </div>
 
 ## English
 
-**<p> Python Extension Gold 🥇 Pack 📦 is a complete and powerful 💪 Package of VS Code extensions designed for Python developers. This Package includes a collection of essential and useful extensions for coding, formatting, project  management, and more. </p>**
+**<p> Python Extension silver 🥇 Pack 📦 is a complete and powerful 💪 Package of VS Code extensions designed for Python developers. This Package includes a collection of essential and useful extensions for coding, formatting, project  management, and more. </p>**
 
 ### Extensions included in this Package are:
 
@@ -52,14 +52,14 @@
 
 
 <br><br>
-Python-extension-gold-pack is a valuable tool for Python developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
+Python-extension-silver-pack is a valuable tool for Python developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
-<h1>💻 Some of the benefits of using Python-extension-gold-pack include:</h1>
+<h1>💻 Some of the benefits of using Python-extension-silver-pack include:</h1>
 
 <h3> :one: - Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
 <h3> :two: - Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
 <h3> :three: - Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
-If you are a Python developer, Python-extension-gold-pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
+If you are a Python developer, Python-extension-silver-pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
 
 
@@ -113,15 +113,15 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 
 
 <br><br>
-<p dir="rtl"> Python-extension-gold-pack ابزار مهمی برای توسعه‌دهندگان پایتون است که می‌تواند به آن‌ها در افزایش بهره‌وری و بهبود کیفیت کد کمک کند. این بسته به صورت رایگان در مارکت VsCode در دسترس است.</p>
-<h1 dir='rtl'>💻 برخی از مزایای استفاده از Python-extension-gold-pack :</h1>
+<p dir="rtl"> Python-extension-silver-pack ابزار مهمی برای توسعه‌دهندگان پایتون است که می‌تواند به آن‌ها در افزایش بهره‌وری و بهبود کیفیت کد کمک کند. این بسته به صورت رایگان در مارکت VsCode در دسترس است.</p>
+<h1 dir='rtl'>💻 برخی از مزایای استفاده از Python-extension-silver-pack :</h1>
 
 <h3 dir='rtl'> 1️⃣ - افزایش بهره‌وری:</h3>
 <p dir='rtl'>این بسته شامل مجموعه‌ای از اکستنشن‌های ضروری و مفید است که می‌تواند به توسعه‌دهندگان کمک کند تا زمان در صرفه‌جویی کرده و بهره‌وری را افزایش دهند.</p>
 <h3 dir='rtl'> 2️⃣ - بهبود کیفیت کد: </h3><p dir="rtl">
 این بسته شامل اکستنشن‌ها برای فرمت‌بندی، linting و ... است که می‌تواند به توسعه‌دهندگان کمک کند کیفیت کد خود را بهبود بخشند.</p>
 <h3 dir='rtl'> 3️⃣ - سازگاری با آخرین فناوری‌ها: </h3><p dir='rtl'>این بسته به صورت منظم به‌روزرسانی می‌شود تا از سازگاری با آخرین فناوری‌ها را اطمینان حاصل کند.</p>
-<p dir="rtl">اگر شما یک توسعه‌دهنده پایتون هستید، Python-extension-gold-pack یک ابزار ارزشمند برای شماست. این بسته می‌تواند به شما کمک کند تا سریع‌تر، آسان‌تر و با کیفیت بهتری کد بزنید.</p>
+<p dir="rtl">اگر شما یک توسعه‌دهنده پایتون هستید، Python-extension-silver-pack یک ابزار ارزشمند برای شماست. این بسته می‌تواند به شما کمک کند تا سریع‌تر، آسان‌تر و با کیفیت بهتری کد بزنید.</p>
 <hr>
 <h3 dir='rtl'>سوالی دارید؟</h3>
 
