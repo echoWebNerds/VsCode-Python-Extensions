@@ -1,5 +1,5 @@
 <div  align="center">
-<img src="./img/Logo.png">
+<img src="./img/logo2.png">
 
 # 📦 Python-extension-silver-pack
 
