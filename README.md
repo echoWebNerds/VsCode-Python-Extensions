@@ -56,9 +56,9 @@ Python-extension-silver-pack is a valuable tool for Python developers that can h
 
 <h1>💻 Some of the benefits of using Python-extension-silver-pack include:</h1>
 
-<h3> :one: - Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
-<h3> :two: - Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
-<h3> :three: - Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
+<h3> :one: - Increased productivity:</h3>🛠 This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
+<h3> :two: - Improved code quality: </h3>👌 This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
+<h3> :three: - Compatibility with the latest technologies: </h3>🌐 This Package is regularly updated to ensure compatibility with the latest technologies.<br>
 If you are a Python developer, Python-extension-silver-pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
 
@@ -72,7 +72,7 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 [@echoWebNerds](https://github.com/echoWebNerds) / 
 [@Mohammad Rahgoshayi](https://github.com/mohmmadView/) / 
 [@Minoo Zarpoosh](https://github.com/Zarpoosh)
-**Enjoy!** 
+**Enjoy!** 😉🔥
 <br>
 <hr>
 <h3>License<h3>
@@ -118,7 +118,7 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 
 <h3 dir='rtl'> 1️⃣ - افزایش بهره‌وری:</h3>
 <p dir='rtl'>🛠 ابزارهای پیشرفته: اکستنشن‌های حرفه‌ای برای دیباگینگ، پیش‌نمایش کدها و مدیریت پروژه‌ها.</p>
-<h3 dir='rtl'> 2️⃣ - بهبود کیفیت کد: </h3><p dir="rtl">
+<h3 dir='rtl'> 2️⃣ - بهبود کیفیت کد: </h3><p dir="rtl">👌
 این بسته شامل اکستنشن‌ها برای فرمت‌بندی، linting و ... است که می‌تواند به توسعه‌دهندگان کمک کند کیفیت کد خود را بهبود بخشند.</p>
 <h3 dir='rtl'> 3️⃣ - سازگاری با آخرین فناوری‌ها: </h3><p dir='rtl'>🌐 انعطاف‌پذیری: سازگار با انواع پروژه‌ها و قابلیت اضافه کردن اکستنشن‌های دلخواه.این بسته به صورت منظم به‌روزرسانی می‌شود تا از سازگاری با آخرین فناوری‌ها را اطمینان حاصل کند.</p>
 <p dir="rtl">اگر شما یک توسعه‌دهنده پایتون هستید، Python-extension-silver-pack یک ابزار ارزشمند برای شماست. این بسته می‌تواند به شما کمک کند تا سریع‌تر، آسان‌تر و با کیفیت بهتری کد بزنید.</p>
