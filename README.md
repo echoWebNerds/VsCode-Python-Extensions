@@ -12,7 +12,7 @@
 
 [![License: GPL v3.0](https://img.shields.io/badge/EchoWebNerds-Group-red.svg?logo=github&logoColor=white)](https://github.com/echoWebNerds/VsCode-Python-Extensions)
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3.0-green.svg?logo=git&logoColor=green)](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
-[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Python.Extension.silverpack-blue.svg?logo=visualstudiocode&logoColor=blue)](https://github.com/echoWebNerds/VsCode-Python-Extensions/blob/master/LICENSE)
+[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Python.Extension.silverpack-blue.svg?logo=visualstudiocode&logoColor=blue)](https://marketplace.visualstudio.com/items?itemName=4bde9604-932c-638d-b5d2-db273992f59c.python-silver-pack)
 </div>
 
 ## English
